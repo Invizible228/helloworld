@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bebra", "Bebra.csproj", "{6AFA0F9A-B9BE-4A79-BBDE-1F68748AA1DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AFA0F9A-B9BE-4A79-BBDE-1F68748AA1DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AFA0F9A-B9BE-4A79-BBDE-1F68748AA1DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AFA0F9A-B9BE-4A79-BBDE-1F68748AA1DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AFA0F9A-B9BE-4A79-BBDE-1F68748AA1DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B98D9FC1-4240-4E58-9D9A-14E52707E5D6}
+	EndGlobalSection
+EndGlobal
